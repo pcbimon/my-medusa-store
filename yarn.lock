@@ -2198,9 +2198,9 @@
     uuid "^9.0.0"
 
 "@medusajs/medusa@^1.20.9":
-  version "1.20.10"
-  resolved "https://registry.yarnpkg.com/@medusajs/medusa/-/medusa-1.20.10.tgz#2d8e7c2932b6381feccc1e6813247d428e58306b"
-  integrity sha512-dVCFhWFQ2j6PttMepJuZNHwchv1TU44MagmUpA4hcxWum6j8ZXuXM3bDM45+oXTB0htX1lBdV9zHgnIxWVvJTw==
+  version "1.20.11"
+  resolved "https://registry.yarnpkg.com/@medusajs/medusa/-/medusa-1.20.11.tgz#bff1e5827a9b04f61fce7c25b8a97b9f5e980b0f"
+  integrity sha512-oSnsOV9nTY8MGRPIsMfq93lsO7dVz87XxU9+HiCT/ugODmNuy4pYiREz42MabgFpoxPgFi2+NUozNqJp8lhf8A==
   dependencies:
     "@medusajs/core-flows" "^0.0.10"
     "@medusajs/link-modules" "^0.2.12"
